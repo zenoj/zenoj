@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zenoj
 - 👀 I’m interested in golang, bouldering, web security, optimization
-- 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on golang-utils
+- 🌱 I’m currently working on deep learning training pipelines
 - 📫 How to reach me: no way!
 
 <!---
